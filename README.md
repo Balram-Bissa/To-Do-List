@@ -1,0 +1,3 @@
+To Do List
+_____________________________________________________________________________________________________________________________________________________________________________________________
+Simple and interactive To-Do List web application built with HTML, CSS, and JavaScript, featuring task creation, editing, and deletion for efficient task management.
